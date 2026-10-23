@@ -18,4 +18,3 @@ Milestone 01 introduces contracts and acceptance scenarios. Engine behavior, per
 ## Local verification — 2026-10-22
 
 JDK 25 and Maven 3.9.11: clean verify succeeded. Four production sources and two test sources compiled. DomainInvariantTest: 14 passed. PricingAcceptanceTest: one disabled parameterized method containing 13 pending examples (reported by Surefire as one skipped test). No pricing engine has been validated.
-

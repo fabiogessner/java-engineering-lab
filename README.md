@@ -50,4 +50,3 @@ Only module 01 is registered in Maven. Future modules will be independent and ad
 Based on the [shared Java Engineering Lab plan](https://chatgpt.com/s/t_6adab489c38881918982108e3ed7e7ec). Ambiguous pricing choices are resolved explicitly in ADR 0001 and can be revised with acceptance tests.
 
 On Windows, run `.\scripts\verify.ps1`. It uses a local ignored `.tools` JDK/Maven installation if present, otherwise Maven on PATH. Portable tools were downloaded locally for initial verification and are not versioned.
-
